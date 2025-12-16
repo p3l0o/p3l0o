@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=p3l0o&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **p3l0o/p3l0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
